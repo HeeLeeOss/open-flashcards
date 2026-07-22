@@ -22,9 +22,9 @@
     "Dataset licensed CC0-1.0 (metrics are facts, not creative works)."
   ],
   "resources": [
-    "https://github.com/Elyos-Projects/open-flashcards/blob/main/PLAN.md",
-    "https://github.com/Elyos-Projects/open-flashcards/blob/main/tasks/open-flashcards-batch-001.json",
-    "https://github.com/Elyos-Projects/open-flashcards/blob/main/tasks/open-flashcards-doc-001.json"
+    "https://github.com/Hee-Lee-Oss-Projects/open-flashcards/blob/main/PLAN.md",
+    "https://github.com/Hee-Lee-Oss-Projects/open-flashcards/blob/main/tasks/open-flashcards-batch-001.json",
+    "https://github.com/Hee-Lee-Oss-Projects/open-flashcards/blob/main/tasks/open-flashcards-doc-001.json"
   ],
   "output": "A versioned metrics dataset (metrics/quality-adoption.json or .csv) with schema documentation and a summary table (metrics/summary.md), licensed CC0-1.0.",
   "requestor": "jdev1977",

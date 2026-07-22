@@ -22,8 +22,8 @@
     "Published, versioned, licensed CC-BY-4.0."
   ],
   "resources": [
-    "https://github.com/Elyos-Projects/open-flashcards/blob/main/PLAN.md",
-    "https://github.com/Elyos-Projects/open-flashcards/blob/main/tasks/open-flashcards-style-001.json"
+    "https://github.com/Hee-Lee-Oss-Projects/open-flashcards/blob/main/PLAN.md",
+    "https://github.com/Hee-Lee-Oss-Projects/open-flashcards/blob/main/tasks/open-flashcards-style-001.json"
   ],
   "output": "A versioned high-stakes deck pathway document (docs/high-stakes-pathway.md) covering expert sign-off, framing requirements, syllabus restrictions, and the escalation checklist, CC-BY-4.0.",
   "requestor": "jdev1977",

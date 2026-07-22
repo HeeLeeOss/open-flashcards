@@ -22,8 +22,8 @@
     "Includes integration tests (against a test deck) and documentation; licensed MIT."
   ],
   "resources": [
-    "https://github.com/Elyos-Projects/open-flashcards/blob/main/PLAN.md",
-    "https://github.com/Elyos-Projects/open-flashcards/blob/main/tasks/open-flashcards-research-001.json"
+    "https://github.com/Hee-Lee-Oss-Projects/open-flashcards/blob/main/PLAN.md",
+    "https://github.com/Hee-Lee-Oss-Projects/open-flashcards/blob/main/tasks/open-flashcards-research-001.json"
   ],
   "output": "A merged PR adding a publishing adapter CLI (tools/publish/) supporting the confirmed channel(s) with dry-run mode, documentation, and integration tests; licensed MIT.",
   "requestor": "jdev1977",

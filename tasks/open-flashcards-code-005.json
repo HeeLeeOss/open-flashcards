@@ -11,7 +11,7 @@
   "deliverable": "pr",
   "tokenEstimate": "medium",
   "status": "open",
-  "context": "Elyos measures success as outcomes delivered to beneficiaries. For open-flashcards, the sustainability metric is adoption: how many learners are installing and using the published decks. An outcome-tracking dashboard aggregates per-deck publication status, install counts, ratings, and quality metrics (from data-002) into a single view that maintainers can use to guide prioritization.",
+  "context": "Hee-Lee Oss measures success as outcomes delivered to beneficiaries. For open-flashcards, the sustainability metric is adoption: how many learners are installing and using the published decks. An outcome-tracking dashboard aggregates per-deck publication status, install counts, ratings, and quality metrics (from data-002) into a single view that maintainers can use to guide prioritization.",
   "objective": "Build an outcome-tracking dashboard that aggregates per-deck publication status, adoption metrics (installs/ratings), and quality metrics into a single, maintainer-readable view.",
   "acceptanceCriteria": [
     "Aggregates per-deck data: publication status, channel URL, install count / rating (where available from channel API), and quality metrics from the data-002 dataset.",
@@ -22,8 +22,8 @@
     "Licensed MIT."
   ],
   "resources": [
-    "https://github.com/Elyos-Projects/open-flashcards/blob/main/PLAN.md",
-    "https://github.com/Elyos-Projects/open-flashcards/blob/main/tasks/open-flashcards-data-002.json"
+    "https://github.com/Hee-Lee-Oss-Projects/open-flashcards/blob/main/PLAN.md",
+    "https://github.com/Hee-Lee-Oss-Projects/open-flashcards/blob/main/tasks/open-flashcards-data-002.json"
   ],
   "output": "A merged PR adding an outcome-tracking dashboard tool (tools/dashboard/) that generates a static dashboard from published metrics, with a CI workflow to update it on release; licensed MIT.",
   "requestor": "jdev1977",

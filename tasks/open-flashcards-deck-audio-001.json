@@ -22,9 +22,9 @@
     "Dataset licensed under the most permissive license compatible with all included clip licenses."
   ],
   "resources": [
-    "https://github.com/Elyos-Projects/open-flashcards/blob/main/PLAN.md",
+    "https://github.com/Hee-Lee-Oss-Projects/open-flashcards/blob/main/PLAN.md",
     "https://commons.wikimedia.org/wiki/Commons:Audio (Wikimedia Commons audio)",
-    "https://github.com/Elyos-Projects/open-flashcards/blob/main/tasks/open-flashcards-research-002.json"
+    "https://github.com/Hee-Lee-Oss-Projects/open-flashcards/blob/main/tasks/open-flashcards-research-002.json"
   ],
   "output": "A curated dataset of openly-licensed pronunciation audio clips (media/audio/) with attribution metadata and integration into at least one language deck CrowdAnki JSON file.",
   "requestor": "jdev1977",

@@ -1,6 +1,6 @@
 # Competitive & Improvement Analysis — `open-flashcards`
 
-> Scope: rigorous review of `PLAN.md` (v0.1.0, 2026-06-28) and `TASKS.md` for the Elyos good-deed
+> Scope: rigorous review of `PLAN.md` (v0.1.0, 2026-06-28) and `TASKS.md` for the Hee-Lee Oss good-deed
 > project producing open, openly-licensed, quality-reviewed, Anki-compatible spaced-repetition decks.
 > Guardrails: open license; factual accuracy (SRS amplifies errors); attribution; not duplicating
 > low-quality shared decks. Competitor claims are web-grounded and cited inline.
@@ -218,7 +218,7 @@ attribution/standards-tag drafting.
 
 ## 7. Parallel & perpendicular spin-offs
 
-**Reusable infrastructure (perpendicular — serves the whole Elyos portfolio):**
+**Reusable infrastructure (perpendicular — serves the whole Hee-Lee Oss portfolio):**
 
 - **`card-quality-linter`** — a standalone, open library/CLI implementing the atomicity/ambiguity/
   provenance/accessibility checks. Usable by *any* deck project and publishable as its own public good.
@@ -227,7 +227,7 @@ attribution/standards-tag drafting.
   *provenance enforcement* and the 4-dimension rubric, which it lacks). Lets any agent author
   guardrailed decks.
 - **A provenance/attribution metadata schema** (per-card SPDX + source + license) reusable by any
-  Elyos open-content project (alt-text commons, datasets).
+  Hee-Lee Oss open-content project (alt-text commons, datasets).
 
 **Parallel good-deed ties (shared pipeline, different subjects/cohorts):**
 

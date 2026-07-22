@@ -22,8 +22,8 @@
     "Output decks pass all CI gates (linter, license check) and are published to the confirmed channel."
   ],
   "resources": [
-    "https://github.com/Elyos-Projects/open-flashcards/blob/main/PLAN.md",
-    "https://github.com/Elyos-Projects/open-flashcards/blob/main/tasks/open-flashcards-style-001.json"
+    "https://github.com/Hee-Lee-Oss-Projects/open-flashcards/blob/main/PLAN.md",
+    "https://github.com/Hee-Lee-Oss-Projects/open-flashcards/blob/main/tasks/open-flashcards-style-001.json"
   ],
   "output": "Merged PR(s) containing localised CrowdAnki JSON deck files in decks/locale/ with per-language reviewer sign-off, attribution, and CI-passing validation.",
   "requestor": "jdev1977",

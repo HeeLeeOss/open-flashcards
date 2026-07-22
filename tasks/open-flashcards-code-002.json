@@ -22,9 +22,9 @@
     "Includes unit tests covering at least the schema, cloze, GUID, and attribution checks; licensed MIT."
   ],
   "resources": [
-    "https://github.com/Elyos-Projects/open-flashcards/blob/main/PLAN.md",
-    "https://github.com/Elyos-Projects/open-flashcards/blob/main/tasks/open-flashcards-data-001.json",
-    "https://github.com/Elyos-Projects/open-flashcards/blob/main/tasks/open-flashcards-code-001.json"
+    "https://github.com/Hee-Lee-Oss-Projects/open-flashcards/blob/main/PLAN.md",
+    "https://github.com/Hee-Lee-Oss-Projects/open-flashcards/blob/main/tasks/open-flashcards-data-001.json",
+    "https://github.com/Hee-Lee-Oss-Projects/open-flashcards/blob/main/tasks/open-flashcards-code-001.json"
   ],
   "output": "A merged PR adding a deck linter CLI (tools/lint-deck/) and a CI workflow (.github/workflows/lint-decks.yml) that gates deck PRs; licensed MIT.",
   "requestor": "jdev1977",

@@ -22,8 +22,8 @@
     "PR includes all deck JSON files, accuracy-review records, and a subject-completion report."
   ],
   "resources": [
-    "https://github.com/Elyos-Projects/open-flashcards/blob/main/PLAN.md",
-    "https://github.com/Elyos-Projects/open-flashcards/blob/main/tasks/open-flashcards-batch-001.json"
+    "https://github.com/Hee-Lee-Oss-Projects/open-flashcards/blob/main/PLAN.md",
+    "https://github.com/Hee-Lee-Oss-Projects/open-flashcards/blob/main/tasks/open-flashcards-batch-001.json"
   ],
   "output": "A merged PR containing at least 6 CrowdAnki JSON deck files (1,500+ cards) in decks/ covering one coherent subject, published via the full pipeline, with accuracy-review records and a subject-completion report.",
   "requestor": "jdev1977",

@@ -178,7 +178,7 @@ standard — inventing one now would be dishonest.
 ## Solution approach & architecture
 
 This is a **content/data pipeline** project with supporting **build + adapter code**, run in the
-**donated lane**: a human runs their own agent interactively to author and review cards; Elyos
+**donated lane**: a human runs their own agent interactively to author and review cards; Hee-Lee Oss
 prepares the per-deck task workspace and opens the PR. The CLI never runs an agent headless and never
 authenticates a coding agent.
 
@@ -224,7 +224,7 @@ authenticates a coding agent.
 - `pipeline/` — card/deck data model + schema, the **linter/validator**, license-verification rules,
   GUID assignment, and standards-tagging.
 - `build/` — deterministic CrowdAnki JSON → `.apkg` builder.
-- `adapters/` (Elyos-conformant; all channel/host-specific logic lives here) —
+- `adapters/` (Hee-Lee Oss-conformant; all channel/host-specific logic lives here) —
   - `adapters/ankiweb/` — AnkiWeb shared-deck publishing (policy-compliant).
   - `adapters/release/` — GitHub release packaging of `.apkg` + source.
 - `records/` — provenance/attribution log (audit artifact, not a re-publication of sources).
@@ -451,7 +451,7 @@ card batch) = one task**, drawn from a milestone-scoped subject.
 - **Publishing channels** — **AnkiWeb** shared decks (policy-validated), **GitHub releases**, and OER
   repositories / CrowdAnki import (partner-dependent).
 - **License metadata** — SPDX identifiers; Creative Commons license deeds; source-provided license fields.
-- **Elyos platform pieces** — `packages/cli` (task workspace + PR prep, donated lane), the Task schema
+- **Hee-Lee Oss platform pieces** — `packages/cli` (task workspace + PR prep, donated lane), the Task schema
   (`packages/schema`), and `adapters/` for all channel-specific code. The CLI never runs an agent
   headless and never authenticates a coding agent.
 
@@ -485,7 +485,7 @@ card batch) = one task**, drawn from a milestone-scoped subject.
   and phone home to nothing. Biographical content uses only published, openly-licensed material with no
   private-attribute inference.
 - **Abuse / misuse prevention.** No mass unreviewed publishing; honour channel policy and rate limits;
-  every deck is human-reviewed. Refuse and flag (per Elyos guardrails) any request to ingest
+  every deck is human-reviewed. Refuse and flag (per Hee-Lee Oss guardrails) any request to ingest
   non-open/third-party decks, copy proprietary question banks, ship high-stakes content without expert
   review, or produce partisan/deceptive content.
 
@@ -523,10 +523,10 @@ card batch) = one task**, drawn from a milestone-scoped subject.
 
 ## References
 
-- `C:\code\elyos\CLAUDE.md` — Elyos work rules, lanes, quality bar, refusal guardrails.
-- `C:\code\elyos\docs\good-deed-definition.md` — good-deed criteria and risk tiers.
-- `C:\code\elyos\packages\schema\src\schemas.ts` — Task JSON schema.
-- `C:\code\elyos\planning\ROADMAP.md` — portfolio roadmap (open-flashcards entry, Track 3).
+- `C:\code\hee-lee-oss\CLAUDE.md` — Hee-Lee Oss work rules, lanes, quality bar, refusal guardrails.
+- `C:\code\hee-lee-oss\docs\good-deed-definition.md` — good-deed criteria and risk tiers.
+- `C:\code\hee-lee-oss\packages\schema\src\schemas.ts` — Task JSON schema.
+- `C:\code\hee-lee-oss\planning\ROADMAP.md` — portfolio roadmap (open-flashcards entry, Track 3).
 - Anki manual — note/card model, note types, GUIDs, importing/updating, `.apkg` package format.
 - FSRS (Free Spaced Repetition Scheduler) — Anki's default open-source scheduler; SM-2 legacy.
 - CrowdAnki — JSON deck import/export for version control.
@@ -599,7 +599,7 @@ trustworthy public good.
 ## Review sign-off
 
 A completeness + correctness pass over both documents against the PLAN_SPEC, the Task schema, and the
-Elyos guardrails. Issues found were fixed in place; this records the state at sign-off.
+Hee-Lee Oss guardrails. Issues found were fixed in place; this records the state at sign-off.
 
 **Completeness.**
 - All **17 required PLAN.md H2 sections** are present, in spec order. ✓

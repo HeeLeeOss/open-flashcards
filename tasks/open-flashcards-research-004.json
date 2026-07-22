@@ -11,7 +11,7 @@
   "deliverable": "document",
   "tokenEstimate": "small",
   "status": "open",
-  "context": "Elyos measures success by outcomes delivered to real beneficiaries, not tasks merged. Educator/learner validation confirms that the published deck set is genuinely useful and accurate from the perspective of real users, not just the authors. Feedback from validation feeds back into the style guide and reviewer checklist to improve future batches.",
+  "context": "Hee-Lee Oss measures success by outcomes delivered to real beneficiaries, not tasks merged. Educator/learner validation confirms that the published deck set is genuinely useful and accurate from the perspective of real users, not just the authors. Feedback from validation feeds back into the style guide and reviewer checklist to improve future batches.",
   "objective": "Obtain validation of the published subject deck set from at least one educator or learner, documenting their accuracy and usability assessment and feeding findings back into project documentation.",
   "acceptanceCriteria": [
     "At least 1 educator or learner reviews the published subject deck set and provides a written assessment of accuracy and usability.",
@@ -22,8 +22,8 @@
     "Published as a versioned document, CC-BY-4.0."
   ],
   "resources": [
-    "https://github.com/Elyos-Projects/open-flashcards/blob/main/PLAN.md",
-    "https://github.com/Elyos-Projects/open-flashcards/blob/main/tasks/open-flashcards-batch-001.json"
+    "https://github.com/Hee-Lee-Oss-Projects/open-flashcards/blob/main/PLAN.md",
+    "https://github.com/Hee-Lee-Oss-Projects/open-flashcards/blob/main/tasks/open-flashcards-batch-001.json"
   ],
   "output": "A versioned beneficiary-validation report (docs/beneficiary-validation.md) documenting educator/learner feedback, error triage, and implications for verifiedNeed status, CC-BY-4.0.",
   "requestor": "jdev1977",

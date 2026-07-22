@@ -22,9 +22,9 @@
     "Includes unit tests; licensed MIT."
   ],
   "resources": [
-    "https://github.com/Elyos-Projects/open-flashcards/blob/main/PLAN.md",
-    "https://github.com/Elyos-Projects/open-flashcards/blob/main/tasks/open-flashcards-research-002.json",
-    "https://github.com/Elyos-Projects/open-flashcards/blob/main/tasks/open-flashcards-data-001.json",
+    "https://github.com/Hee-Lee-Oss-Projects/open-flashcards/blob/main/PLAN.md",
+    "https://github.com/Hee-Lee-Oss-Projects/open-flashcards/blob/main/tasks/open-flashcards-research-002.json",
+    "https://github.com/Hee-Lee-Oss-Projects/open-flashcards/blob/main/tasks/open-flashcards-data-001.json",
     "https://spdx.org/licenses/"
   ],
   "output": "A merged PR adding a license-verification CLI tool (tools/check-licenses/) with an approved-sources config and a CI workflow integration; licensed MIT.",

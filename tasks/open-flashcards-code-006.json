@@ -22,9 +22,9 @@
     "Licensed MIT; includes unit tests and a README."
   ],
   "resources": [
-    "https://github.com/Elyos-Projects/open-flashcards/blob/main/PLAN.md",
-    "https://github.com/Elyos-Projects/open-flashcards/blob/main/tasks/open-flashcards-research-002.json",
-    "https://github.com/Elyos-Projects/open-flashcards/blob/main/tasks/open-flashcards-code-003.json",
+    "https://github.com/Hee-Lee-Oss-Projects/open-flashcards/blob/main/PLAN.md",
+    "https://github.com/Hee-Lee-Oss-Projects/open-flashcards/blob/main/tasks/open-flashcards-research-002.json",
+    "https://github.com/Hee-Lee-Oss-Projects/open-flashcards/blob/main/tasks/open-flashcards-code-003.json",
     "https://commons.wikimedia.org/wiki/Commons:API (Wikimedia Commons API)"
   ],
   "output": "A merged PR adding a media-sourcing pipeline CLI (tools/source-media/) with Wikimedia Commons integration, provenance recording, and license gate integration; licensed MIT.",

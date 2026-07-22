@@ -24,10 +24,10 @@
     "Output is valid CrowdAnki JSON in decks/; output license is compatible with the source."
   ],
   "resources": [
-    "https://github.com/Elyos-Projects/open-flashcards/blob/main/PLAN.md",
-    "https://github.com/Elyos-Projects/open-flashcards/blob/main/tasks/open-flashcards-style-001.json",
-    "https://github.com/Elyos-Projects/open-flashcards/blob/main/tasks/open-flashcards-data-001.json",
-    "https://github.com/Elyos-Projects/open-flashcards/blob/main/tasks/open-flashcards-research-002.json"
+    "https://github.com/Hee-Lee-Oss-Projects/open-flashcards/blob/main/PLAN.md",
+    "https://github.com/Hee-Lee-Oss-Projects/open-flashcards/blob/main/tasks/open-flashcards-style-001.json",
+    "https://github.com/Hee-Lee-Oss-Projects/open-flashcards/blob/main/tasks/open-flashcards-data-001.json",
+    "https://github.com/Hee-Lee-Oss-Projects/open-flashcards/blob/main/tasks/open-flashcards-research-002.json"
   ],
   "output": "A CrowdAnki JSON deck file in decks/ (~50 cards, ≥2 note types, ≥1 image card), with full per-card provenance/attribution, accuracy-reviewed and ready for the build tool.",
   "requestor": "jdev1977",

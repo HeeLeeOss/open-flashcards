@@ -22,7 +22,7 @@
     "Includes a README explaining usage and a minimal test suite; licensed MIT."
   ],
   "resources": [
-    "https://github.com/Elyos-Projects/open-flashcards/blob/main/PLAN.md",
+    "https://github.com/Hee-Lee-Oss-Projects/open-flashcards/blob/main/PLAN.md",
     "https://github.com/kerrickstaley/genanki (genanki library for .apkg generation)",
     "CrowdAnki JSON format documentation (https://github.com/Stvad/CrowdAnki)"
   ],

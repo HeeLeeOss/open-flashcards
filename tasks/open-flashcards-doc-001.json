@@ -22,8 +22,8 @@
     "Published, versioned, licensed CC-BY-4.0."
   ],
   "resources": [
-    "https://github.com/Elyos-Projects/open-flashcards/blob/main/PLAN.md",
-    "https://github.com/Elyos-Projects/open-flashcards/blob/main/tasks/open-flashcards-style-001.json"
+    "https://github.com/Hee-Lee-Oss-Projects/open-flashcards/blob/main/PLAN.md",
+    "https://github.com/Hee-Lee-Oss-Projects/open-flashcards/blob/main/tasks/open-flashcards-style-001.json"
   ],
   "output": "A versioned reviewer workflow document (docs/reviewer-workflow.md) covering the accuracy rubric, error taxonomy, and expert-escalation checklist, CC-BY-4.0.",
   "requestor": "jdev1977",

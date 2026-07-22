@@ -22,8 +22,8 @@
     "Published, versioned, licensed CC-BY-4.0."
   ],
   "resources": [
-    "https://github.com/Elyos-Projects/open-flashcards/blob/main/PLAN.md",
-    "https://github.com/Elyos-Projects/open-flashcards/blob/main/tasks/open-flashcards-style-001.json",
+    "https://github.com/Hee-Lee-Oss-Projects/open-flashcards/blob/main/PLAN.md",
+    "https://github.com/Hee-Lee-Oss-Projects/open-flashcards/blob/main/tasks/open-flashcards-style-001.json",
     "https://www.w3.org/WAI/WCAG21/quickref/ (WCAG 2.1 quick reference)"
   ],
   "output": "A versioned accessibility audit and guide document (docs/accessibility-guide.md) with per-rule examples and style guide update recommendations, CC-BY-4.0.",

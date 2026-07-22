@@ -22,8 +22,8 @@
     "Schema is versioned and published as a JSON Schema file with accompanying documentation, CC-BY-4.0."
   ],
   "resources": [
-    "https://github.com/Elyos-Projects/open-flashcards/blob/main/PLAN.md",
-    "https://github.com/Elyos-Projects/open-flashcards/blob/main/tasks/open-flashcards-style-001.json",
+    "https://github.com/Hee-Lee-Oss-Projects/open-flashcards/blob/main/PLAN.md",
+    "https://github.com/Hee-Lee-Oss-Projects/open-flashcards/blob/main/tasks/open-flashcards-style-001.json",
     "CrowdAnki JSON format documentation (https://github.com/Stvad/CrowdAnki)"
   ],
   "output": "A versioned JSON Schema file (schema/card-model.schema.json) and accompanying documentation (docs/data-model.md) defining the card/deck data model, provenance fields, and GUID rules, CC-BY-4.0.",

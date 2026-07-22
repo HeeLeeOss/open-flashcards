@@ -23,7 +23,7 @@
   "resources": [
     "https://creativecommons.org/licenses/ (CC license suite)",
     "https://spdx.org/licenses/ (SPDX license identifiers)",
-    "https://github.com/Elyos-Projects/open-flashcards/blob/main/PLAN.md"
+    "https://github.com/Hee-Lee-Oss-Projects/open-flashcards/blob/main/PLAN.md"
   ],
   "output": "A versioned approved-source list and license-verification rules document (docs/approved-sources-and-license-rules.md), CC-BY-4.0, covering text and media sources, SPDX identifiers, share-alike/NC constraints, and the 'unknown = excluded' rule.",
   "requestor": "jdev1977",

@@ -22,8 +22,8 @@
     "Published as a versioned document, CC-BY-4.0."
   ],
   "resources": [
-    "https://github.com/Elyos-Projects/open-flashcards/blob/main/PLAN.md",
-    "https://github.com/Elyos-Projects/open-flashcards/blob/main/tasks/open-flashcards-batch-001.json"
+    "https://github.com/Hee-Lee-Oss-Projects/open-flashcards/blob/main/PLAN.md",
+    "https://github.com/Hee-Lee-Oss-Projects/open-flashcards/blob/main/tasks/open-flashcards-batch-001.json"
   ],
   "output": "A versioned curriculum-mapping and coverage-measurement report (docs/curriculum-coverage.md) for the chosen subject, with methodology, coverage delta, and gap analysis, CC-BY-4.0.",
   "requestor": "jdev1977",
